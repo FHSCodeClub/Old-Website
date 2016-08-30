@@ -1,5 +1,9 @@
+* {
+  font-family: 'Monaco', 'Consolas', monospace;
+}
+
 body{
-   margin:0; 
+   margin:0;
 }
 
 header{
@@ -32,9 +36,9 @@ nav ul li a{
     color:white;
 }
 
-.row:after { 
-    clear: both; 
-    content: " "; 
+.row:after {
+    clear: both;
+    content: " ";
     display: table;
 }
 .col{
