@@ -4,11 +4,12 @@
 
 body{
    margin:0;
+   color:red;
 }
 
 header{
     background:#999;
-    color:white;
+    color:red;
     padding:15px 15px 0 15px
 }
 
