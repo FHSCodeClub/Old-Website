@@ -5,10 +5,11 @@
 body{
    margin:0;
    color:red;
+   background:#999;
 }
 
 header{
-    background:#999;
+    background:#333;
     color:red;
     padding:15px 15px 0 15px
 }
@@ -26,7 +27,7 @@ nav ul{
 
 nav ul li{
     background:black;
-    color:white;
+    color:red;
     display: inline-block;
     list-style-type:none;
     padding:5px 15px;
@@ -34,7 +35,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color:white;
+    color:red;
 }
 
 .row:after {
