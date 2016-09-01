@@ -5,11 +5,11 @@
 body{
    margin:0;
    color:red;
-   background:#999;
+   background:red;
 }
 
 header{
-    background:#333;
+    background:white;
     color:red;
     padding:15px 15px 0 15px
 }
@@ -26,8 +26,8 @@ nav ul{
 }
 
 nav ul li{
-    background:black;
-    color:red;
+    background:red;
+    color:white;
     display: inline-block;
     list-style-type:none;
     padding:5px 15px;
@@ -35,8 +35,9 @@ nav ul li{
 }
 
 nav ul li a{
-    color:red;
+    color:white;
 }
+
 
 .row:after {
     clear: both;
@@ -44,9 +45,9 @@ nav ul li a{
     display: table;
 }
 .col{
-    background:#333;
+    background:white;
     border-radius:5px;
-    color:white;
+    color:red;
     padding:10px .5px;
     float:left;
     margin:.5%;
