@@ -59,3 +59,13 @@ h1 {
   display:inline;
   color:white;
 }
+.logo{
+	width: 25%;
+}
+div{
+	background:white;
+	color:black;
+	border-radius:10px;
+	margin: auto;
+	width:75%;
+}
