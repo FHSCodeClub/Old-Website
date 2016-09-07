@@ -47,9 +47,12 @@ nav ul li a{
 .col{
     background:white;
     border-radius:5px;
-    color:red;
+    color:black;
     padding:10px .5px;
     float:left;
     margin:.5%;
     width:31%;
+}
+.logo{
+	width:25%;
 }
