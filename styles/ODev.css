@@ -1,0 +1,73 @@
+* {
+  font-family: 'Monaco', 'Consolas', monospace;
+}
+
+body{
+   margin:0;
+   color:red;
+   background:red;
+}
+
+header{
+    background:white;
+    color:red;
+    padding:15px 15px 0 15px
+}
+
+header h1{
+    color:red;
+    margin:0;
+    display:inline;
+}
+
+nav ul{
+    margin:0;
+    padding: 0 0 0 15px;
+    display:inline;
+}
+
+nav ul li{
+    background:red;
+    color:white;
+    display: inline-block;
+    list-style-type:none;
+    padding:5px 15px;
+    margin:0;
+}
+
+nav ul li a{
+    color:white;
+}
+
+
+.row:after {
+    clear: both;
+    content: " ";
+    display: table;
+}
+.col{
+    background:white;
+    border-radius:5px;
+    color:red;
+    padding:10px .5px;
+    float:left;
+    margin:.5%;
+    width:31%;
+}
+h1 {
+  margin:0;
+  display:inline;
+  color:white;
+}
+.logo{
+	width: 25%;
+}
+div{
+	background:white;
+	color:black;
+	border-radius:10px;
+	margin: auto;
+	width:75%;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
