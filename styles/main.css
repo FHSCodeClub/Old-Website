@@ -72,3 +72,35 @@ nav ul li a{
      display:inline;
      color:white;
 }
+footer {
+	margin:0;
+	width:100%;
+	background:white;
+	bottom: 0px;
+	position:fixed;
+}
+.webteam {
+	background:red;
+	width:25%;
+	padding-bottom:0px;
+	float:right;
+}
+.girlscode {
+	width:20%;
+	float:right;
+	padding-right:15px;
+}
+.robotics {
+	width:30%;
+	float:right;
+}
+.ad {
+	background:white;
+	font-size:30px;
+	color:black;
+	float:left;
+	padding-left:15px;
+	top:20%;
+	bottom:20%;
+	position:absolute;
+}
