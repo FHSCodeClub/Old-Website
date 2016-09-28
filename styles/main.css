@@ -79,28 +79,24 @@ footer {
 	bottom: 0px;
 	position:fixed;
 }
-.webteam {
+#webteam {
 	background:red;
-	width:25%;
-	padding-bottom:0px;
-	float:right;
+	width:20vw;
+	float:left;
 }
-.girlscode {
-	width:20%;
-	float:right;
-	padding-right:15px;
+#girlscode {
+	width:15vw;
+	float:left;
 }
-.robotics {
-	width:30%;
-	float:right;
+#robotics {
+	width:25vw;
+	float:left;
 }
-.ad {
-	background:white;
-	font-size:30px;
+#ad {
+	width:30vw;
+	font-size:2vw;
 	color:black;
 	float:left;
-	padding-left:15px;
-	top:20%;
-	bottom:20%;
-	position:absolute;
+	vertical-align:middle;
+	text-align:center;
 }
